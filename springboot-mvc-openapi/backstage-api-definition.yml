@@ -4,11 +4,10 @@ metadata:
   name: openapi-test
   description: Spring MVC openapi service
   tags:
-    - spring-mvc
-    - rest
+    - ANB
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-sde
+  owner: Faisal
   definition:
     $text: https://github.com/organisasi-bawah-tanah/backstage-api-docs/blob/main/springboot-mvc-openapi/petstore.yml
